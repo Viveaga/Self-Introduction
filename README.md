@@ -7,3 +7,6 @@ I enjoy working with others and collaborating in a team.
 Gardening is one of my leisure activities.
 I am excited about the opportunities ahead.
 Thank you.
+
+Project-Idea :
+I would like to build a Smart Learning Assistant application where teachers can upload their daily class notes. The application will use AI to automatically generate a one-minute explanatory video and create quizzes based on the uploaded content. This will help students quickly revise lessons, improve understanding, and assess their knowledge through interactive quizzes.
