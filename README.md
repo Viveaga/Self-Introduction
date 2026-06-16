@@ -10,3 +10,6 @@ Thank you.
 
 Project-Idea :
 I would like to build a Smart Learning Assistant application where teachers can upload their daily class notes. The application will use AI to automatically generate a one-minute explanatory video and create quizzes based on the uploaded content. This will help students quickly revise lessons, improve understanding, and assess their knowledge through interactive quizzes.
+
+
+Internship: Infosys Springboard Internship Program – Shortlisted Candidate
